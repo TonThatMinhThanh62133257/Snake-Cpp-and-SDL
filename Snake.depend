@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1673959762 source:/home/maka/Documents/Projects/SDL2/Snake/src/main.cpp
+	<iostream>
+	<SDL2/SDL.h>
+	"../include/GameMain.hpp"
+
+1673960529 /home/maka/Documents/Projects/SDL2/Snake/include/GameMain.hpp
+	<iostream>
+	<cstdlib>
+	<SDL2/SDL.h>
+	"Entity.hpp"
+
+1673959547 source:/home/maka/Documents/Projects/SDL2/Snake/src/GameMain.cpp
+	<iostream>
+	<cstdlib>
+	<SDL2/SDL.h>
+	"../include/GameMain.hpp"
+	"../include/Entity.hpp"
+
+1673945473 /home/maka/Documents/Projects/SDL2/Snake/include/Entity.hpp
+	<iostream>
+	<SDL2/SDL.h>
+
+1673929082 source:/home/maka/Documents/Projects/SDL2/Snake/src/Entity.cpp
+	<iostream>
+	"../include/GameMain.hpp"
+
